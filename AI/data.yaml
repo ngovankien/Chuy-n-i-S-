@@ -1,0 +1,14 @@
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 7
+names:
+  [
+    'mi_tom_hao_hao',
+    'snack_bi_do',
+    'snack_bap_ngot',
+    'dau_nanh_tuong_an',
+    'bia_333',
+    'dau_goi_nguyen_xuan',
+    'kem_danh_rang_ps'
+  ]
